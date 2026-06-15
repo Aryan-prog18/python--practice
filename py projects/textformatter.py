@@ -1,0 +1,6 @@
+# concepts we are going to use in this text formatter is uppercase(), lowercase(), split(), title()
+Text = input("Enter a sentence: ")
+print("Upper: ", Text.upper())
+print("lower: ", Text.lower())
+print("Title: ", Text.title())
+print("Length: ", len("Text"))
