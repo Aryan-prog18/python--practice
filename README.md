@@ -18,6 +18,7 @@ This repository contains the programs, exercises, and mini-projects I am buildin
 - Password Strength Checker
 - Word Counter
 - Leap Year Checker
+- ATM Machine
 
 ## Goal
 To document my Python learning journey and track my progress as I build more projects and improve my programming skills.
