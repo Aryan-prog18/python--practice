@@ -10,6 +10,7 @@ This repository contains the programs, exercises, and mini-projects I am buildin
 - Match Case
 - Slicing
 - Loops
+- Control Flow
 
 ## Mini Projects
 - Calculator
